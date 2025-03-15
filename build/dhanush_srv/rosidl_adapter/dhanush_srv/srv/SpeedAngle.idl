@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from dhanush_srv/srv/SpeedAngle.srv
+// generated code does not contain a copyright notice
+
+
+module dhanush_srv {
+  module srv {
+    struct SpeedAngle_Request {
+      float speed;
+
+      float angle;
+    };
+    struct SpeedAngle_Response {
+      boolean success;
+    };
+  };
+};
