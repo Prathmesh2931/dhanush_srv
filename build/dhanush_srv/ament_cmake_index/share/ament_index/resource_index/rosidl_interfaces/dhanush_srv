@@ -1,4 +1,0 @@
-srv/SpeedAngle.idl
-srv/SpeedAngle.srv
-srv/SpeedAngle_Request.msg
-srv/SpeedAngle_Response.msg
